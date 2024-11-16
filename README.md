@@ -66,14 +66,14 @@ GitHub Actions: CI/CD（継続的インテグレーション/デリバリー）
 ##貢献
   このプロジェクトに貢献したい場合は、以下の手順に従ってください。
 
-1.**このリポジトリをフォークします。**
+1. **このリポジトリをフォークします。**
 
-2.**新しいブランチを作成します。**
-  ```bash
-  git checkout -b feature/your-feature
+2. **新しいブランチを作成します。**
+   ```bash
+   git checkout -b feature/your-feature
 
-3.**コードを変更し、コミットします。**
-  ```bash
-  git commit -m "Add your feature"
+3. **コードを変更し、コミットします。**
+   ```bash
+   git commit -m "Add your feature"
 
-4.プルリクエストを作成してください。
+4. プルリクエストを作成してください。
