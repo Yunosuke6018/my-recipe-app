@@ -20,12 +20,17 @@
 ## スクリーンショット
 
 ### レシピ一覧画面
-![レシピ一覧](screenshot1.png)
+![レシピ一覧](<img width="1184" alt="スクリーンショット 2024-11-16 22 41 01" src="https://github.com/user-attachments/assets/245f5d61-d815-4d2c-8c7d-0f0b4795c859">
+)
 
 ### レシピ詳細画面
-![レシピ詳細](screenshot2.png)
+![レシピ詳細]
+(<img width="1173" alt="スクリーンショット 2024-11-16 22 41 37" src="https://github.com/user-attachments/assets/9f6c4fec-5065-41ec-adbd-8a17eca53201">）
+（<img width="1178" alt="スクリーンショット 2024-11-16 22 41 55" src="https://github.com/user-attachments/assets/4b6e5150-3f41-4fa4-a6e2-0e8ae11fc987">）
+### 買い物メモページ
+![買物メモ](<img width="1171" alt="スクリーンショット 2024-11-16 22 42 34" src="https://github.com/user-attachments/assets/0f7808eb-62bc-463a-b2c8-c21a14fd5bbd">
+)
 
-> **ヒント**: アプリの魅力を伝えるために、`screenshot1.png` と `screenshot2.png` をリポジトリにアップロードしてください。
 
 ---
 
@@ -34,9 +39,15 @@
 1. **このリポジトリをクローンします：**
    ```bash
    git clone git@github.com:Yunosuke6018/my-recipe-app.git
-2. プロジェクトディレクトリに移動します：cd my-recipe-app
-3. 必要な依存パッケージをインストールします：npm install
-4. 開発サーバーを起動します：npm start
+2.**プロジェクトディレクトリに移動します：**
+   ```bash
+    cd my-recipe-app
+3. **必要な依存パッケージをインストールします：**
+  ```bash
+  npm install
+4. **開発サーバーを起動します：**
+  ```bash
+  npm start
 
 ##使用技術
 React: ユーザーインターフェース構築
@@ -53,9 +64,11 @@ GitHub Actions: CI/CD（継続的インテグレーション/デリバリー）
 ##貢献
   このプロジェクトに貢献したい場合は、以下の手順に従ってください。
 
-1.このリポジトリをフォークします。
-2.新しいブランチを作成します。
+1.**このリポジトリをフォークします。**
+2.**新しいブランチを作成します。**
+  ```bash
   git checkout -b feature/your-feature
-3.コードを変更し、コミットします。
+3.**コードを変更し、コミットします。**
+  ```bash
   git commit -m "Add your feature"
 4.プルリクエストを作成してください。
