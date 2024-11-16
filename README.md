@@ -1,6 +1,6 @@
 # My Recipe App
 
-このアプリは、レシピを簡単に管理し、共有できるようにするためのアプリです。**React** と **Firebase** を使用して開発しました。
+このアプリは、レシピを簡単に管理し、共有できるアプリです。**React** と **Firebase** を使用して開発しました。
 
 ---
 
@@ -20,20 +20,13 @@
 ## スクリーンショット
 
 ### レシピ一覧画面
-![レシピ一覧]
-(<img width="1184" alt="スクリーンショット 2024-11-16 22 41 01" src="https://github.com/user-attachments/assets/b6c1b163-3154-4448-9423-62c27646eba4">
-)
+![レシピ一覧](https://github.com/Yunosuke6018/my-recipe-app/assets/your-image-link1)
 
 ### レシピ詳細画面
-![レシピ詳細]
-(<img width="1173" alt="スクリーンショット 2024-11-16 22 41 37" src="https://github.com/user-attachments/assets/9f6c4fec-5065-41ec-adbd-8a17eca53201">）
-（<img width="1178" alt="スクリーンショット 2024-11-16 22 41 55" src="https://github.com/user-attachments/assets/4b6e5150-3f41-4fa4-a6e2-0e8ae11fc987">）
+![レシピ詳細](https://github.com/Yunosuke6018/my-recipe-app/assets/your-image-link2)
 
 ### 買い物メモページ
-![買物メモ]
-(<img width="1171" alt="スクリーンショット 2024-11-16 22 42 34" src="https://github.com/user-attachments/assets/0f7808eb-62bc-463a-b2c8-c21a14fd5bbd">
-)
-
+![買い物メモ](https://github.com/Yunosuke6018/my-recipe-app/assets/your-image-link3)
 
 ---
 
@@ -42,12 +35,15 @@
 1. **このリポジトリをクローンします：**
    ```bash
    git clone git@github.com:Yunosuke6018/my-recipe-app.git
+
 2.**プロジェクトディレクトリに移動します：**
    ```bash
     cd my-recipe-app
+
 3. **必要な依存パッケージをインストールします：**
   ```bash
   npm install
+
 4. **開発サーバーを起動します：**
   ```bash
   npm start
@@ -68,10 +64,13 @@ GitHub Actions: CI/CD（継続的インテグレーション/デリバリー）
   このプロジェクトに貢献したい場合は、以下の手順に従ってください。
 
 1.**このリポジトリをフォークします。**
+
 2.**新しいブランチを作成します。**
   ```bash
   git checkout -b feature/your-feature
+
 3.**コードを変更し、コミットします。**
   ```bash
   git commit -m "Add your feature"
+
 4.プルリクエストを作成してください。
