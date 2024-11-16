@@ -20,13 +20,16 @@
 ## スクリーンショット
 
 ### レシピ一覧画面
-![レシピ一覧](https://github.com/Yunosuke6018/my-recipe-app/assets/your-image-link1)
+![レシピ一覧](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1184" alt="スクリーンショット 2024-11-16 22 41 01" src="https://github.com/user-attachments/assets/1f1ae2cf-5f61-4862-ae72-edffb25d50c9">
+)
 
 ### レシピ詳細画面
-![レシピ詳細](https://github.com/Yunosuke6018/my-recipe-app/assets/your-image-link2)
+![レシピ詳細](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1173" alt="スクリーンショット 2024-11-16 22 41 37" src="https://github.com/user-attachments/assets/93c5e377-201b-479e-bccc-d945526a2057">
+)
 
 ### 買い物メモページ
-![買い物メモ](https://github.com/Yunosuke6018/my-recipe-app/assets/your-image-link3)
+![買い物メモ](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1171" alt="スクリーンショット 2024-11-16 22 42 34" src="https://github.com/user-attachments/assets/de602ded-392f-4851-bb73-3ba09b04ef9f">
+)
 
 ---
 
@@ -36,17 +39,17 @@
    ```bash
    git clone git@github.com:Yunosuke6018/my-recipe-app.git
 
-2.**プロジェクトディレクトリに移動します：**
+2. **プロジェクトディレクトリに移動します：**
    ```bash
-    cd my-recipe-app
+   cd my-recipe-app
 
 3. **必要な依存パッケージをインストールします：**
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 4. **開発サーバーを起動します：**
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 ##使用技術
 React: ユーザーインターフェース構築
