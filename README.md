@@ -20,7 +20,8 @@
 ## スクリーンショット
 
 ### レシピ一覧画面
-![レシピ一覧](<img width="1184" alt="スクリーンショット 2024-11-16 22 41 01" src="https://github.com/user-attachments/assets/b6c1b163-3154-4448-9423-62c27646eba4">
+![レシピ一覧]
+(<img width="1184" alt="スクリーンショット 2024-11-16 22 41 01" src="https://github.com/user-attachments/assets/b6c1b163-3154-4448-9423-62c27646eba4">
 )
 
 ### レシピ詳細画面
@@ -29,7 +30,8 @@
 （<img width="1178" alt="スクリーンショット 2024-11-16 22 41 55" src="https://github.com/user-attachments/assets/4b6e5150-3f41-4fa4-a6e2-0e8ae11fc987">）
 
 ### 買い物メモページ
-![買物メモ](<img width="1171" alt="スクリーンショット 2024-11-16 22 42 34" src="https://github.com/user-attachments/assets/0f7808eb-62bc-463a-b2c8-c21a14fd5bbd">
+![買物メモ]
+(<img width="1171" alt="スクリーンショット 2024-11-16 22 42 34" src="https://github.com/user-attachments/assets/0f7808eb-62bc-463a-b2c8-c21a14fd5bbd">
 )
 
 
