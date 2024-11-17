@@ -23,7 +23,8 @@
 ## スクリーンショット
 
 ### レシピ一覧画面
-![レシピ一覧](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1184" alt="スクリーンショット 2024-11-16 22 41 01" src="https://github.com/user-attachments/assets/cdd94fba-39fa-4a2b-bf51-071e2f455423">
+![レシピ一覧](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1184" alt="スクリーンショッ![Uploading スクリーンショット 2024-11-16 22.41.01.png…]()
+ト 2024-11-16 22 41 01" src="https://github.com/user-attachments/assets/cdd94fba-39fa-4a2b-bf51-071e2f455423">
 )
 
 ### レシピ詳細画面
