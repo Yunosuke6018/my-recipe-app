@@ -22,17 +22,12 @@
 
 ## スクリーンショット
 
-### レシピ一覧画面
-![レシピ一覧](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1184" alt="recipe_list" src="https://github.com/user-attachments/assets/5180ae57-5298-4a41-8e7c-871891eb9fb8">
-
-
-### レシピ詳細画面
-![レシピ詳細](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1173" alt="recipe_detail" src="https://github.com/user-attachments/assets/c0c3996e-cde2-4150-8951-5355a38515db">
-
-
-### 買い物メモページ
-![買い物メモ](https://github.com/Yunosuke6018/my-recipe-app/assets/<img width="1171" alt="recipe_memo" src="https://github.com/user-attachments/assets/5ce70504-efcb-49a6-9d62-ae27080dece8">
-
+## レシピ一覧画面
+![レシピ一覧画面](images/recipe_list.png)
+## レシピ詳細画面
+![レシピ詳細画面](images/recipe_detail.png)
+## 買い物メモページ
+![買い物メモページ](images/recipe_memo.png)
 
 ---
 
